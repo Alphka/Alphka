@@ -8,7 +8,7 @@
 
 ## Languages / Frameworks / Tools
 
-<img height="32" width="32" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<a href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noopener noreferer"><img height="32" width="32" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferer"><img height="32" width="32" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferer"><img height="32" width="32" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"></a>
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferer"><img height="32" width="32" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"></a>
@@ -37,9 +37,11 @@
 
 ### Stats
 
-<div style="display: flex; gap: 10px">
+<div>
 
 <a href="https://git.io/streak-stats" target="_blank"><img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Alphka&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></a>
+<br>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphka&layout=compact&langs_count=8&theme=dark&border_radius=5"></a>
 
 </div>
