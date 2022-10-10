@@ -42,7 +42,7 @@
 <a href="https://git.io/streak-stats"><img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Alphka&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></a>
 <br>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphka&layout=compact&langs_count=8&theme=dark&border_radius=5"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphka&layout=compact&langs_count=8&theme=dark&border_radius=5&hide=procfile"></a>
 
 </div>
 </div>
