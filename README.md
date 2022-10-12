@@ -17,6 +17,7 @@
 <img height="32" width="32" alt="Socket.io" title="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
 <a href="https://discord.js.org/"><img height="32" width="32" alt="Discord.js" title="Discord.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"></a>
 <a href="https://gulpjs.com/"><img height="32" width="32" alt="Gulp" title="Gulp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"></a>
+<a href="https://pugjs.org/"><img height="32" width="32" alt="Pug" title="Pug" src="https://skillicons.dev/icons?i=pug"></a>
 <a href="https://sass-lang.com/"><img height="32" width="32" alt="Sass" title="Sass" src="https://skillicons.dev/icons?i=sass"></a>
 <img height="32" width="32" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 <a href="https://heroku.com/"><img height="32" width="32" alt="Heroku" title="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></a>
