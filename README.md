@@ -14,15 +14,9 @@
 <a href="https://www.python.org/"><img height="32" width="32" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"></a>
 <img height="32" width="32" alt="HTML" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
 <img height="32" width="32" alt="CSS" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-<img height="32" width="32" alt="Socket.io" title="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
-<a href="https://discord.js.org/"><img height="32" width="32" alt="Discord.js" title="Discord.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"></a>
-<a href="https://gulpjs.com/"><img height="32" width="32" alt="Gulp" title="Gulp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"></a>
 <a href="https://pugjs.org/"><img height="32" width="32" alt="Pug" title="Pug" src="https://skillicons.dev/icons?i=pug"></a>
 <a href="https://sass-lang.com/"><img height="32" width="32" alt="Sass" title="Sass" src="https://skillicons.dev/icons?i=sass"></a>
 <img height="32" width="32" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-<a href="https://heroku.com/"><img height="32" width="32" alt="Heroku" title="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></a>
-<a href="https://expressjs.com/"><img height="32" width="32" alt="Express" title="Express" src="https://skillicons.dev/icons?i=express"></a>
-<a href="https://code.visualstudio.com/"><img height="32" width="32" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 
 
 ### Learning
