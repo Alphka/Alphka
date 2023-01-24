@@ -7,7 +7,7 @@
 ## About me
 
 - I'm currently studying in a Quality technical course at SENAI
-- I'm learning Node.js and C++
+- I'm learning Next.js and C++
 - I look forward to collaborating on great projects
 
 <div align="center">
@@ -35,7 +35,7 @@
 <a href="https://git.io/streak-stats"><img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Alphka&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></a>
 <br>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alphka&layout=compact&card_width=445&langs_count=10&theme=onedark&&border_radius=5&hide=procfile&exclude_repo=Brainly-Enhancer"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphka&layout=compact&card_width=445&langs_count=10&theme=onedark&&border_radius=5&hide=procfile&exclude_repo=Brainly-Enhancer"></a>
 
 </div>
 <div align="center">
