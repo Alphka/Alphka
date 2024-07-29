@@ -15,6 +15,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="32" width="32" alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html"></a></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="32" width="32" alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css"></a>
+<a href="https://www.php.net"><img height="32" width="32" alt="PHP" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
 <a href="https://expressjs.com"><img height="32" width="32" alt="Express.js" title="Express.js" src="https://skillicons.dev/icons?i=express"></a>
 <a href="https://pugjs.org"><img height="32" width="32" alt="Pug" title="Pug" src="https://skillicons.dev/icons?i=pug"></a>
 <a href="https://sass-lang.com"><img height="32" width="32" alt="Sass" title="Sass" src="https://skillicons.dev/icons?i=sass"></a>
@@ -33,7 +34,7 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphka&layout=compact&card_width=445&langs_count=10&theme=dracula&border_radius=5&hide=procfile&exclude_repo=Brainly-Enhancer"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphka&layout=compact&card_width=445&langs_count=10&theme=dracula&border_radius=4&hide=procfile,hack"></a>
 
 </div>
 
