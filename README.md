@@ -1,52 +1,43 @@
 <h1 align="center">Kayo Souza</h1>
 
+<p align="center">
+	Full Stack Developer with a front-end focus, based in Brazil.<br>
+	I build scalable web applications with React, Next.js, TypeScript and Node.js.
+</p>
+
+<p align="center">
+	<a href="https://portfolio-alphka.vercel.app/en"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-portfolio--alphka.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/kayosouza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kayosouza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+## About
+
+- Front-End Developer at Estúdio Haus (remote), since April 2024: responsive React and Next.js applications, reusable UI components, token-based authentication, REST API integration and CI/CD on Azure.
+- LLM AI Trainer at Revelo (Miami, FL; remote), since December 2025: evaluating AI-generated code and writing technical prompts.
+- Previously Full Stack Developer at Suporte Leilões (September 2023 to December 2025), working with PHP, Symfony, Vue.js and Twig.
+- Education: Technologist degree (Tecnólogo) in Systems Analysis and Development at Anhanguera University, plus technical degrees in Internet Computing (IFNMG) and Quality Control (SENAI).
+
+## Tech stack
+
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphka&layout=compact&card_width=445&langs_count=10&theme=dracula&border_radius=4&hide=procfile,hack"></a>
-
-<h2 style="word-wrap: no-break">Languages / Tools</h2>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="32" alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=javascript"></a>
-<a href="https://www.typescriptlang.org"><img width="32" alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=typescript"></a>
-<a href="https://nodejs.org"><img width="32" alt="Node.js" title="Node.js" src="https://skillicons.dev/icons?i=nodejs"></a>
-<a href="https://nextjs.org"><img width="32" alt="Next.js" title="Next.js" src="https://skillicons.dev/icons?i=next"></a>
-<a href="https://react.dev"><img width="32" alt="React.js" title="React.js" src="https://skillicons.dev/icons?i=react"></a>
-<a href="https://www.python.org"><img width="32" alt="Python" title="Python" src="https://skillicons.dev/icons?i=python"></a>
-
+<img height="40" alt="JavaScript, TypeScript, Node.js, React, Next.js, Vue.js, Vite, Electron" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vue,vite,electron&perline=8">
 <br>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="32" alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html"></a></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="32" alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css"></a>
-<a href="https://tailwindcss.com"><img width="32" alt="TailwindCSS" title="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind"></a>
-<a href="https://www.electronjs.org"><img width="32" alt="Electron" title="Electron" src="https://skillicons.dev/icons?i=electron"></a>
-<a href="https://pugjs.org"><img width="32" alt="Pug" title="Pug" src="https://skillicons.dev/icons?i=pug"></a>
-<a href="https://sass-lang.com"><img width="32" alt="Sass" title="Sass" src="https://skillicons.dev/icons?i=sass"></a>
-
+<img height="40" alt="HTML, CSS, Sass, Tailwind CSS, Material UI, Styled Components, Figma" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,mui,styledcomponents,figma&perline=8">
 <br>
-
-<a href="https://www.php.net"><img width="32" alt="PHP" title="PHP" src="https://skillicons.dev/icons?i=php"></a>
-<a href="https://expressjs.com"><img width="32" alt="Express.js" title="Express.js" src="https://skillicons.dev/icons?i=express"></a>
-<a href="https://www.mongodb.com"><img width="32" alt="MongoDB" title="MongoDB" src="https://skillicons.dev/icons?i=mongo"></a>
-<a href="https://dotnet.microsoft.com"><img width="32" alt=".NET" title=".NET" src="https://skillicons.dev/icons?i=net"></a>
-<a href="https://discord.js.org"><img width="32" alt="Discord.js" title="Discord.js" src="https://skillicons.dev/icons?i=discordjs"></a>
-<a href="https://www.selenium.dev"><img width="32" alt="Selenium" title="Selenium" src="https://skillicons.dev/icons?i=selenium"></a>
-
+<img height="40" alt="Express, PHP, Symfony, Go, Python, C#, Java, C, C++" src="https://skillicons.dev/icons?i=express,php,symfony,go,python,cs,java,c,cpp&perline=9">
 <br>
-
-<a href="https://git-scm.com"><img width="32" alt="Git" title="Git" src="https://skillicons.dev/icons?i=git"></a>
-<a href="https://www.iso.org/standard/74528.html"><img width="32" alt="C" title="C" src="https://skillicons.dev/icons?i=c"></a>
-<a href="https://cplusplus.com"><img width="32" alt="C++" title="C++" src="https://skillicons.dev/icons?i=cpp"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img width="32" alt="CSharp" title="C#" src="https://skillicons.dev/icons?i=cs"></a>
-<a href="https://www.java.com"><img width="32" alt="Java" title="Java" src="https://skillicons.dev/icons?i=java"></a>
-<a href="https://vuejs.org"><img width="32" alt="Vue.js" title="Vue.js" src="https://skillicons.dev/icons?i=vue"></a>
-
-<br>
-
-<a href="https://vite.dev"><img width="32" alt="Vite" title="Vite" src="https://skillicons.dev/icons?i=vite"></a>
-<a href="https://mui.com"><img width="32" alt="MaterialUI" title="MaterialUI" src="https://skillicons.dev/icons?i=mui"></a>
-<a href="https://www.figma.com"><img width="32" alt="Figma" title="Figma" src="https://skillicons.dev/icons?i=figma"></a>
-<a href="https://gulpjs.com"><img width="32" alt="Gulp.js" title="Gulp.js" src="https://skillicons.dev/icons?i=gulp"></a>
-<a href="https://www.mysql.com"><img width="32" alt="MySQL" title="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
-<a href="https://styled-components.com"><img width="32" alt="Styled-Components" title="Styled-Components" src="https://skillicons.dev/icons?i=styledcomponents"></a>
+<img height="40" alt="MongoDB, MySQL, PostgreSQL, Azure, Vitest, Jest, Cypress, Gulp" src="https://skillicons.dev/icons?i=mongo,mysql,postgres,azure,vitest,jest,cypress,gulp&perline=8">
 
 </div>
+
+## Featured projects
+
+| Project | Description |
+| --- | --- |
+| [EduAlphka](https://github.com/Alphka/EduAlphka) ([live](https://edu-alphka.vercel.app)) | Online platform for creating, applying and grading exams, with invite links and a server-enforced exam timer. Next.js, React, TypeScript, MongoDB, Mantine and Tailwind CSS. |
+| [Flash Upload Server](https://github.com/Alphka/Flash-Upload-Server) | Electronic document management system for industrial quality control, built around SHA-256 deduplication and role-based access. Next.js, TypeScript and MongoDB. |
+| [eslint-plugin-ordering-conventions](https://github.com/Alphka/eslint-plugin-ordering-conventions) | Eight auto-fixable ESLint rules for ordering imports, interface members, JSX attributes, Tailwind classes and JSON keys. |
+| [Instagram Downloader](https://github.com/Alphka/Instagram-Downloader) | Node.js command-line tool that downloads Instagram posts, stories and highlights. Requires your own account credentials; use it responsibly. |
+| [Mercadinho-API](https://github.com/Alphka/Mercadinho-API) | Go training project: a REST API built with Gin and PostgreSQL, adapted from an Android CRUD app. |
+| [Simple HTTP Server](https://github.com/Alphka/Simple-HTTP-Server) | Command-line HTTP server for Node.js that serves a local directory. Built with Express and Pug. |
