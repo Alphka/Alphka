@@ -2,7 +2,7 @@
 
 <p align="center">
 	Full Stack Developer with a front-end focus, based in Brazil.<br>
-	I build scalable web applications with React, Next.js, TypeScript and Node.js.
+	I build web applications with React, Next.js, TypeScript and Node.js.
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 <div align="center">
 
-<img height="40" alt="JavaScript, TypeScript, Node.js, React, Next.js, Vue.js, Vite, Electron" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vue,vite,electron&perline=8">
+<img height="40" alt="Node.js, React, Next.js, Vite, Electron, Vue.js" src="https://skillicons.dev/icons?i=nodejs,react,next,vite,electron,vue&perline=6">
 <br>
-<img height="40" alt="HTML, CSS, Sass, Tailwind CSS, Material UI, Styled Components, Figma" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,mui,styledcomponents,figma&perline=8">
+<img height="40" alt="JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass, Styled Components, Material UI" src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,styledcomponents,materialui&perline=8">
 <br>
-<img height="40" alt="Express, PHP, Symfony, Go, Python, C#, Java, C, C++" src="https://skillicons.dev/icons?i=express,php,symfony,go,python,cs,java,c,cpp&perline=9">
+<img height="40" alt="Go, Python, C, C++, C#, Java, MongoDB, PostgreSQL" src="https://skillicons.dev/icons?i=go,python,c,cpp,cs,java,mongo,postgres&perline=8">
 <br>
-<img height="40" alt="MongoDB, MySQL, PostgreSQL, Azure, Vitest, Jest, Cypress, Gulp" src="https://skillicons.dev/icons?i=mongo,mysql,postgres,azure,vitest,jest,cypress,gulp&perline=8">
+<img height="40" alt="Docker, Android Studio, Azure, AWS, GitHub Actions, Vitest, Jest" src="https://skillicons.dev/icons?i=docker,androidstudio,azure,aws,githubactions,vitest,jest&perline=8">
 
 </div>
 
